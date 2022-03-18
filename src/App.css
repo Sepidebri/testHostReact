@@ -1,0 +1,15 @@
+html {
+  overflow-x: hidden;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  max-width: 1127px;
+  margin: 0 auto;
+}
+p {
+  margin: 0;
+  padding: 0;
+}
